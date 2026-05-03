@@ -11,7 +11,7 @@ void bar() {
  
 int main() {
     cout << "Hello, World!" << endl;
-    
+    foo();
     bar();
     return 0;
 }
